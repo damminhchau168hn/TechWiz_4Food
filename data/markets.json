@@ -1,0 +1,109 @@
+[
+  {
+    "id": "old-town",
+    "name": "Old Town Evening Market",
+    "area": "Old Town",
+    "address": "14 Market Lane, Old Town",
+    "lat": 45.5245,
+    "lng": -122.6730,
+    "color": "#D9E4C9",
+    "image": "../images/markets/market 1.jpg",
+    "description": "Street food, cut flowers and after-work produce shopping under string lights.",
+    "schedule": [
+      { "day": 3, "open": "16:00", "close": "21:00" },
+      { "day": 5, "open": "16:00", "close": "21:00" }
+    ],
+    "produce": ["pumpkin", "kale", "beetroot", "tomatoes", "apples", "basil", "sourdough"],
+    "payment": "Cash and card",
+    "parking": "Street parking nearby"
+  },
+  {
+    "id": "greenfield",
+    "name": "Greenfield Farm Stand",
+    "area": "Greenfield",
+    "address": "220 Orchard Road, Greenfield",
+    "lat": 45.5480,
+    "lng": -122.6500,
+    "color": "#F1D9B5",
+    "image": "../images/markets/market 2.jpg",
+    "description": "Family farms sharing one barn: eggs, raw honey and pick-your-own apples.",
+    "schedule": [
+      { "day": 5, "open": "09:00", "close": "18:00" },
+      { "day": 6, "open": "09:00", "close": "18:00" },
+      { "day": 0, "open": "09:00", "close": "18:00" }
+    ],
+    "produce": ["apples", "pears", "eggs", "goat-cheese", "honey", "pumpkin"],
+    "payment": "Cash and card",
+    "parking": "Free car park"
+  },
+  {
+    "id": "riverside",
+    "name": "Riverside Saturday Market",
+    "area": "Riverside",
+    "address": "River Path, Riverside Park",
+    "lat": 45.5120,
+    "lng": -122.6700,
+    "color": "#E6D3C2",
+    "image": "../images/markets/market 3.jpg",
+    "description": "The largest weekly market in town, with stalls along the river path.",
+    "schedule": [
+      { "day": 6, "open": "07:00", "close": "13:00" }
+    ],
+    "produce": ["apples", "pumpkin", "sweet-potatoes", "tomatoes", "strawberries", "sourdough", "basil"],
+    "payment": "Mostly card",
+    "parking": "Street parking nearby"
+  },
+  {
+    "id": "harbor",
+    "name": "Harbor Green Market",
+    "area": "Harbor",
+    "address": "Pier 3 Plaza, Harbor",
+    "lat": 45.5300,
+    "lng": -122.6950,
+    "color": "#CFE0E3",
+    "image": "../images/markets/market 4.jpg",
+    "description": "Early-morning growers next to the ferry pier.",
+    "schedule": [
+      { "day": 2, "open": "07:00", "close": "12:00" },
+      { "day": 4, "open": "07:00", "close": "12:00" },
+      { "day": 6, "open": "07:00", "close": "12:00" }
+    ],
+    "produce": ["kale", "basil", "rosemary", "apples", "strawberries"],
+    "payment": "Cash and card",
+    "parking": "Paid car park by the pier"
+  },
+  {
+    "id": "maple-heights",
+    "name": "Maple Heights Growers Market",
+    "area": "Maple Heights",
+    "address": "Maple Heights School Yard",
+    "lat": 45.5000,
+    "lng": -122.6300,
+    "color": "#E3DCC4",
+    "image": "../images/markets/market 5.jpg",
+    "description": "Organic growers, heirloom seeds and a Sunday corner for kids.",
+    "schedule": [
+      { "day": 0, "open": "08:00", "close": "12:30" }
+    ],
+    "produce": ["kale", "beetroot", "rosemary", "pears", "sourdough"],
+    "payment": "Cash preferred",
+    "parking": "School car park"
+  },
+  {
+    "id": "eastgate",
+    "name": "Eastgate Community Market",
+    "area": "Eastgate",
+    "address": "Eastgate Community Hall",
+    "lat": 45.5220,
+    "lng": -122.6100,
+    "color": "#EBD0C4",
+    "image": "../images/markets/market 6.jpg",
+    "description": "A small volunteer-run market with a cooking demo every week.",
+    "schedule": [
+      { "day": 3, "open": "15:00", "close": "19:00" }
+    ],
+    "produce": ["pumpkin", "sweet-potatoes", "goat-cheese", "honey", "eggs"],
+    "payment": "Cash and card",
+    "parking": "Street parking nearby"
+  }
+]

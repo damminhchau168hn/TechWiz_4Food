@@ -1,0 +1,195 @@
+[
+  {
+    "id": "freshmart-old-town",
+    "name": "FreshMart Old Town",
+    "type": "Supermarket",
+    "address": "88 Lantern Street, Old Town",
+    "lat": 45.5230,
+    "lng": -122.6760,
+    "rating": 4.3,
+    "schedule": [
+      { "day": 0, "open": "07:00", "close": "22:00" },
+      { "day": 1, "open": "07:00", "close": "22:00" },
+      { "day": 2, "open": "07:00", "close": "22:00" },
+      { "day": 3, "open": "07:00", "close": "22:00" },
+      { "day": 4, "open": "07:00", "close": "22:00" },
+      { "day": 5, "open": "07:00", "close": "22:00" },
+      { "day": 6, "open": "07:00", "close": "22:00" }
+    ],
+    "offers": [
+      { "productId": "apples", "price": 3.20, "unit": "kg", "daysSinceHarvest": 6 },
+      { "productId": "pears", "price": 3.60, "unit": "kg", "daysSinceHarvest": 5 },
+      { "productId": "pumpkin", "price": 2.10, "unit": "kg", "daysSinceHarvest": 8 },
+      { "productId": "kale", "price": 2.50, "unit": "bunch", "daysSinceHarvest": 3 },
+      { "productId": "eggs", "price": 4.90, "unit": "dozen", "daysSinceHarvest": 4 },
+      { "productId": "sourdough", "price": 5.50, "unit": "loaf", "daysSinceHarvest": 1 },
+      { "productId": "honey", "price": 9.90, "unit": "jar", "daysSinceHarvest": 30 }
+    ]
+  },
+  {
+    "id": "greenfield-farm-shop",
+    "name": "Greenfield Farm Shop",
+    "type": "Farm shop",
+    "address": "220 Orchard Road, Greenfield",
+    "lat": 45.5475,
+    "lng": -122.6510,
+    "rating": 4.8,
+    "schedule": [
+      { "day": 5, "open": "09:00", "close": "18:00" },
+      { "day": 6, "open": "09:00", "close": "18:00" },
+      { "day": 0, "open": "09:00", "close": "18:00" }
+    ],
+    "offers": [
+      { "productId": "apples", "price": 3.90, "unit": "kg", "daysSinceHarvest": 1 },
+      { "productId": "pears", "price": 4.20, "unit": "kg", "daysSinceHarvest": 1 },
+      { "productId": "eggs", "price": 5.50, "unit": "dozen", "daysSinceHarvest": 1 },
+      { "productId": "honey", "price": 8.50, "unit": "jar", "daysSinceHarvest": 10 },
+      { "productId": "pumpkin", "price": 2.40, "unit": "kg", "daysSinceHarvest": 2 }
+    ]
+  },
+  {
+    "id": "riverside-organic",
+    "name": "Riverside Organic Grocer",
+    "type": "Organic grocer",
+    "address": "5 Quay Road, Riverside",
+    "lat": 45.5135,
+    "lng": -122.6690,
+    "rating": 4.6,
+    "schedule": [
+      { "day": 1, "open": "08:00", "close": "20:00" },
+      { "day": 2, "open": "08:00", "close": "20:00" },
+      { "day": 3, "open": "08:00", "close": "20:00" },
+      { "day": 4, "open": "08:00", "close": "20:00" },
+      { "day": 5, "open": "08:00", "close": "20:00" },
+      { "day": 6, "open": "08:00", "close": "20:00" }
+    ],
+    "offers": [
+      { "productId": "apples", "price": 4.40, "unit": "kg", "daysSinceHarvest": 2 },
+      { "productId": "kale", "price": 2.90, "unit": "bunch", "daysSinceHarvest": 1 },
+      { "productId": "basil", "price": 2.20, "unit": "bunch", "daysSinceHarvest": 1 },
+      { "productId": "tomatoes", "price": 5.00, "unit": "kg", "daysSinceHarvest": 2 },
+      { "productId": "sourdough", "price": 6.20, "unit": "loaf", "daysSinceHarvest": 1 },
+      { "productId": "beetroot", "price": 3.10, "unit": "kg", "daysSinceHarvest": 3 }
+    ]
+  },
+  {
+    "id": "valuesave",
+    "name": "ValueSave Supermarket",
+    "type": "Supermarket",
+    "address": "400 Southline Avenue",
+    "lat": 45.5050,
+    "lng": -122.6450,
+    "rating": 3.9,
+    "schedule": [
+      { "day": 0, "open": "06:00", "close": "23:00" },
+      { "day": 1, "open": "06:00", "close": "23:00" },
+      { "day": 2, "open": "06:00", "close": "23:00" },
+      { "day": 3, "open": "06:00", "close": "23:00" },
+      { "day": 4, "open": "06:00", "close": "23:00" },
+      { "day": 5, "open": "06:00", "close": "23:00" },
+      { "day": 6, "open": "06:00", "close": "23:00" }
+    ],
+    "offers": [
+      { "productId": "apples", "price": 2.60, "unit": "kg", "daysSinceHarvest": 12 },
+      { "productId": "pumpkin", "price": 1.80, "unit": "kg", "daysSinceHarvest": 10 },
+      { "productId": "sweet-potatoes", "price": 2.20, "unit": "kg", "daysSinceHarvest": 14 },
+      { "productId": "eggs", "price": 4.20, "unit": "dozen", "daysSinceHarvest": 7 },
+      { "productId": "tomatoes", "price": 3.90, "unit": "kg", "daysSinceHarvest": 6 },
+      { "productId": "honey", "price": 7.90, "unit": "jar", "daysSinceHarvest": 60 }
+    ]
+  },
+  {
+    "id": "harbor-corner",
+    "name": "Harbor Corner Store",
+    "type": "Convenience store",
+    "address": "Pier 3 Plaza, Harbor",
+    "lat": 45.5310,
+    "lng": -122.6940,
+    "rating": 4.0,
+    "schedule": [
+      { "day": 0, "open": "08:00", "close": "21:00" },
+      { "day": 1, "open": "08:00", "close": "21:00" },
+      { "day": 2, "open": "08:00", "close": "21:00" },
+      { "day": 3, "open": "08:00", "close": "21:00" },
+      { "day": 4, "open": "08:00", "close": "21:00" },
+      { "day": 5, "open": "08:00", "close": "21:00" },
+      { "day": 6, "open": "08:00", "close": "21:00" }
+    ],
+    "offers": [
+      { "productId": "apples", "price": 3.50, "unit": "kg", "daysSinceHarvest": 7 },
+      { "productId": "basil", "price": 2.60, "unit": "bunch", "daysSinceHarvest": 3 },
+      { "productId": "rosemary", "price": 1.90, "unit": "bunch", "daysSinceHarvest": 4 },
+      { "productId": "eggs", "price": 5.00, "unit": "dozen", "daysSinceHarvest": 5 }
+    ]
+  },
+  {
+    "id": "maple-coop",
+    "name": "Maple Heights Co-op",
+    "type": "Co-op",
+    "address": "12 Birch Lane, Maple Heights",
+    "lat": 45.5010,
+    "lng": -122.6310,
+    "rating": 4.7,
+    "schedule": [
+      { "day": 0, "open": "09:00", "close": "19:00" },
+      { "day": 2, "open": "09:00", "close": "19:00" },
+      { "day": 3, "open": "09:00", "close": "19:00" },
+      { "day": 4, "open": "09:00", "close": "19:00" },
+      { "day": 5, "open": "09:00", "close": "19:00" },
+      { "day": 6, "open": "09:00", "close": "19:00" }
+    ],
+    "offers": [
+      { "productId": "apples", "price": 4.00, "unit": "kg", "daysSinceHarvest": 3 },
+      { "productId": "pears", "price": 4.50, "unit": "kg", "daysSinceHarvest": 2 },
+      { "productId": "kale", "price": 2.70, "unit": "bunch", "daysSinceHarvest": 2 },
+      { "productId": "beetroot", "price": 2.90, "unit": "kg", "daysSinceHarvest": 2 },
+      { "productId": "goat-cheese", "price": 7.50, "unit": "250 g", "daysSinceHarvest": 3 },
+      { "productId": "sourdough", "price": 5.90, "unit": "loaf", "daysSinceHarvest": 1 }
+    ]
+  },
+  {
+    "id": "eastgate-minimart",
+    "name": "Eastgate Mini Mart",
+    "type": "Convenience store",
+    "address": "3 Gate Street, Eastgate",
+    "lat": 45.5225,
+    "lng": -122.6120,
+    "rating": 3.7,
+    "schedule": [
+      { "day": 1, "open": "07:00", "close": "19:00" },
+      { "day": 2, "open": "07:00", "close": "19:00" },
+      { "day": 3, "open": "07:00", "close": "19:00" },
+      { "day": 4, "open": "07:00", "close": "19:00" },
+      { "day": 5, "open": "07:00", "close": "19:00" }
+    ],
+    "offers": [
+      { "productId": "apples", "price": 2.90, "unit": "kg", "daysSinceHarvest": 9 },
+      { "productId": "sweet-potatoes", "price": 2.40, "unit": "kg", "daysSinceHarvest": 11 },
+      { "productId": "pumpkin", "price": 2.00, "unit": "kg", "daysSinceHarvest": 9 }
+    ]
+  },
+  {
+    "id": "uptown-fresh",
+    "name": "Uptown Fresh Market",
+    "type": "Supermarket",
+    "address": "900 North Hill Road",
+    "lat": 45.5600,
+    "lng": -122.7000,
+    "rating": 4.5,
+    "schedule": [
+      { "day": 0, "open": "09:00", "close": "21:00" },
+      { "day": 1, "open": "09:00", "close": "21:00" },
+      { "day": 2, "open": "09:00", "close": "21:00" },
+      { "day": 3, "open": "09:00", "close": "21:00" },
+      { "day": 4, "open": "09:00", "close": "21:00" },
+      { "day": 5, "open": "09:00", "close": "21:00" },
+      { "day": 6, "open": "09:00", "close": "21:00" }
+    ],
+    "offers": [
+      { "productId": "apples", "price": 3.70, "unit": "kg", "daysSinceHarvest": 4 },
+      { "productId": "strawberries", "price": 6.50, "unit": "box", "daysSinceHarvest": 2 },
+      { "productId": "tomatoes", "price": 4.60, "unit": "kg", "daysSinceHarvest": 3 },
+      { "productId": "honey", "price": 10.50, "unit": "jar", "daysSinceHarvest": 20 }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  { "id": "apples", "name": "Apples", "category": "Fruits", "color": "#F3C9B8", "months": [8, 9, 10, 11], "description": "Crisp early varieties first, keeping apples from October." },
+  { "id": "pears", "name": "Pears", "category": "Fruits", "color": "#E4E9B8", "months": [8, 9, 10], "description": "Buy firm and let them ripen on the counter." },
+  { "id": "strawberries", "name": "Strawberries", "category": "Fruits", "color": "#F3BFC4", "months": [5, 6, 7], "description": "Sweetest in early summer. Eat within a day or two." },
+  { "id": "pumpkin", "name": "Pumpkin", "category": "Vegetables", "color": "#F6CF9C", "months": [9, 10, 11], "description": "Hard-skinned squash for roasting, soup and carving." },
+  { "id": "kale", "name": "Kale", "category": "Vegetables", "color": "#C9DDBE", "months": [1, 2, 3, 9, 10, 11, 12], "description": "Gets sweeter after the first cold nights." },
+  { "id": "sweet-potatoes", "name": "Sweet potatoes", "category": "Vegetables", "color": "#EDC9A8", "months": [9, 10, 11, 12], "description": "Cured after harvest for a sweeter bite." },
+  { "id": "beetroot", "name": "Beetroot", "category": "Vegetables", "color": "#E7C0CB", "months": [6, 7, 8, 9, 10], "description": "Look for firm roots with fresh leaves." },
+  { "id": "tomatoes", "name": "Tomatoes", "category": "Vegetables", "color": "#F3BFB0", "months": [6, 7, 8, 9], "description": "Heirloom varieties at their best in late summer." },
+  { "id": "basil", "name": "Basil", "category": "Herbs", "color": "#CFE3C4", "months": [6, 7, 8, 9], "description": "Tender herb. Buy it the day you cook." },
+  { "id": "rosemary", "name": "Rosemary", "category": "Herbs", "color": "#D6E2CF", "months": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], "description": "Hardy herb grown all year round." },
+  { "id": "goat-cheese", "name": "Goat cheese", "category": "Dairy", "color": "#EFE9DA", "months": [3, 4, 5, 6, 7, 8, 9, 10], "description": "Fresh cheese from small local dairies." },
+  { "id": "eggs", "name": "Free-range eggs", "category": "Dairy", "color": "#F2E6CC", "months": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], "description": "Laid days, not weeks, before market." },
+  { "id": "honey", "name": "Raw honey", "category": "Honey", "color": "#F2DB9C", "months": [7, 8, 9, 10], "description": "Unfiltered honey from nearby hives." },
+  { "id": "sourdough", "name": "Sourdough bread", "category": "Bakery", "color": "#E9D6B8", "months": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], "description": "Long-fermented loaves baked the night before." }
+]

@@ -1,0 +1,10 @@
+[
+  { "id": "faq-season", "question": "What's in season?", "keywords": ["season", "fresh", "month"], "answer": "Open the Produce Guide to see what is in season this month. Items marked 'In season' are at their best right now.", "page": "produce", "suggest": true },
+  { "id": "faq-payment", "question": "Do markets take cards?", "keywords": ["card", "cash", "pay", "money"], "answer": "Most markets take cards, but some small stalls are cash only. Each market page shows its payment options.", "page": "", "suggest": true },
+  { "id": "faq-parking", "question": "Is there parking?", "keywords": ["park", "car", "drive"], "answer": "Every market page lists the parking options. Greenfield and Maple Heights have free car parks.", "page": "markets", "suggest": true },
+  { "id": "faq-bookmark", "question": "How do bookmarks work?", "keywords": ["bookmark", "save", "favourite", "favorite", "note"], "answer": "Click the bookmark button on any market or produce item. You can add notes and export your list. Bookmarks last until you close the browser.", "page": "bookmarks", "suggest": true },
+  { "id": "faq-dog", "question": "Can I bring my dog?", "keywords": ["dog", "pet", "animal"], "answer": "Dogs on short leads are welcome at outdoor markets. Indoor markets only allow assistance dogs.", "page": "", "suggest": true },
+  { "id": "faq-nearest", "question": "How do I find the nearest market?", "keywords": ["near", "closest", "location", "distance"], "answer": "Go to the Market Directory, click 'Use my location' and sort by 'Nearest'.", "page": "markets", "suggest": true },
+  { "id": "faq-contact", "question": "How can I contact you?", "keywords": ["contact", "email", "phone", "help"], "answer": "Use the form on the Contact page and our team will reply.", "page": "contact", "suggest": true },
+  { "id": "faq-hello", "question": "Hello", "keywords": ["hello", "hi", "hey"], "answer": "Hello! Ask me which markets are open now, what's in season, or about payment and parking.", "page": "", "suggest": false }
+]
