@@ -7,7 +7,7 @@
     "lat": 45.5245,
     "lng": -122.6730,
     "color": "#D9E4C9",
-    "image": "../images/markets/market 1.jpg",
+    "image": "../images/markets/market-1.jpg",
     "description": "Street food, cut flowers and after-work produce shopping under string lights.",
     "schedule": [
       { "day": 3, "open": "16:00", "close": "21:00" },
@@ -25,7 +25,7 @@
     "lat": 45.5480,
     "lng": -122.6500,
     "color": "#F1D9B5",
-    "image": "../images/markets/market 2.jpg",
+    "image": "../images/markets/market-2.jpg",
     "description": "Family farms sharing one barn: eggs, raw honey and pick-your-own apples.",
     "schedule": [
       { "day": 5, "open": "09:00", "close": "18:00" },
@@ -44,7 +44,7 @@
     "lat": 45.5120,
     "lng": -122.6700,
     "color": "#E6D3C2",
-    "image": "../images/markets/market 3.jpg",
+    "image": "../images/markets/market-3.jpg",
     "description": "The largest weekly market in town, with stalls along the river path.",
     "schedule": [
       { "day": 6, "open": "07:00", "close": "13:00" }
@@ -61,7 +61,7 @@
     "lat": 45.5300,
     "lng": -122.6950,
     "color": "#CFE0E3",
-    "image": "../images/markets/market 4.jpg",
+    "image": "../images/markets/market-4.jpg",
     "description": "Early-morning growers next to the ferry pier.",
     "schedule": [
       { "day": 2, "open": "07:00", "close": "12:00" },
@@ -80,7 +80,7 @@
     "lat": 45.5000,
     "lng": -122.6300,
     "color": "#E3DCC4",
-    "image": "../images/markets/market 5.jpg",
+    "image": "../images/markets/market-5.jpg",
     "description": "Organic growers, heirloom seeds and a Sunday corner for kids.",
     "schedule": [
       { "day": 0, "open": "08:00", "close": "12:30" }
@@ -97,7 +97,7 @@
     "lat": 45.5220,
     "lng": -122.6100,
     "color": "#EBD0C4",
-    "image": "../images/markets/market 6.jpg",
+    "image": "../images/markets/market-6.jpg",
     "description": "A small volunteer-run market with a cooking demo every week.",
     "schedule": [
       { "day": 3, "open": "15:00", "close": "19:00" }
